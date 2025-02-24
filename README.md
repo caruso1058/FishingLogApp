@@ -1,2 +1,0 @@
-# FishingLogApp
-log all catches
