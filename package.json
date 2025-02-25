@@ -1,14 +1,7 @@
 {
-  "name": "app",
-  "version": "1.0.0",
   "dependencies": {
     "next": "^13.x",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
