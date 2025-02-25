@@ -11,8 +11,8 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
 // Supabase config
-const supabaseUrl = "https://YOUR-PROJECT.supabase.co";
-const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY; // recommended to use env var
+const supabaseUrl = "https://valefsedslqexjvbpsce.supabase.co";
+const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZhbGVmc2Vkc2xxZXhqdmJwc2NlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAzNzM0MTUsImV4cCI6MjA1NTk0OTQxNX0.L-DPL5SD535D6xffP-g8WH-1i_pi_mRyf1trxAUDYNs";
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 export default function Page() {
