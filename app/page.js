@@ -1,4 +1,4 @@
-"use client"; // ← important for client-side code in Next.js 13 app router
+"use client";
 
 import React, { useState, useEffect } from "react";
 import { createClient } from "@supabase/supabase-js";
